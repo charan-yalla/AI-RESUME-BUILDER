@@ -15,7 +15,7 @@
   <h2 align="center">ResumeAI</h2>
 
   <div align="center">
-     <b>ResumeAI</b> is designed to make resume creation effortless. With the help of AI, users can generate, update, and customize their resumes, ensuring they stand out to potential employers. The application is secure, user-friendly, and highly customizable.
+     <b>ResumeAI</b> is a powerful AI-powered resume builder that helps professionals create standout resumes effortlessly. With advanced AI capabilities, users can generate, customize, and optimize their resumes to impress potential employers.
   </div>
   <br />
   <a href="https://resume-ai-app.vercel.app/"><strong>➥ Visit ResumeAI App</strong></a>
@@ -23,17 +23,17 @@
 
 ## <a name="features">✨ Features</a>
 
-- **AI-Powered Resume Generation:** Generate a professional resume using AI.
+- **AI-Powered Resume Generation:** Generate professional and optimized resumes using advanced AI algorithms.
 
-- **User Authentication:** Secure login and registration with Clerk.
+- **Smart Resume Optimization:** AI-powered suggestions for improving resume content and structure.
 
-- **Real-Time Preview:** See live updates as you fill out the resume form.
+- **Real-Time Preview:** Instant visual feedback as you customize your resume.
 
-- **Easy Customization:** Edit sections like experience, education, skills, and more.
+- **Comprehensive Sections:** Detailed sections for experience, education, skills, and achievements.
 
-- **Save and Share:** Save your resume and share a link with potential employers.
+- **Save and Share:** Securely save your resume and share professional links with employers.
 
-- **Responsiveness:** Ensures the application adapts seamlessly to various screen sizes and devices.
+- **Responsive Design:** Works perfectly on all devices and screen sizes.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -51,11 +51,11 @@
 
 ## <a name="quick-start">🚀 Quick Start</a>
 
-Follow these steps to set up the project locally on your machine.
+Follow these steps to set up the project locally:
 
 ### Prerequisites
 
-Make sure you have the following installed on your machine:
+Make sure you have the following installed:
 
 - [Git](https://git-scm.com/)
 - [Node.js](https://nodejs.org/en)
@@ -64,13 +64,13 @@ Make sure you have the following installed on your machine:
 ### Cloning the Repository
 
 ```bash
-git clone https://github.com/Mahmud0808/ResumeAI.git
-cd ResumeAI
+git clone https://github.com/charan-yalla/AI-RESUME-BUILd.git
+cd AI-RESUME-BUILd
 ```
 
 ### Installation
 
-Install the project dependencies using npm:
+Install the project dependencies:
 
 ```bash
 npm install
@@ -78,7 +78,7 @@ npm install
 
 ### Set Up Environment Variables
 
-Create a new file named `.env` in the root of your project and add the following content:
+Create a `.env` file in the root directory with these variables:
 
 ```env
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
@@ -94,7 +94,10 @@ GEMINI_API_KEY=
 BASE_URL=localhost:3000
 ```
 
-Replace the placeholder values with your actual credentials. You can obtain these credentials by signing up for the corresponding websites on [Clerk](https://clerk.com/), [MongoDB](https://mongodb.com/) and [Google AI Studio](https://aistudio.google.com/app/apikey). 
+Get credentials from:
+- [Clerk](https://clerk.com/)
+- [MongoDB](https://mongodb.com/)
+- [Google AI Studio](https://aistudio.google.com/app/apikey)
 
 ### Running the Project
 
@@ -102,26 +105,24 @@ Replace the placeholder values with your actual credentials. You can obtain thes
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
+Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## 🤝 Contributing
 
-Contributions are welcome! Here's how you can contribute:
+Contributions are welcome! Here's how to contribute:
 
-- Fork the repository.
-- Create your feature branch (`git checkout -b feature/AmazingFeature`).
-- Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-- Push to the branch (`git push origin feature/AmazingFeature`).
-- Open a pull request.
-
-## 📢 Notice
-
-As of February 2025, the user limit of 500 has been exceeded. To test the website, you can log in using the following account:
-- Email: test@mail.com
-- Password: test@@123456
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
 ## 📬 Contact
 
-Wanna reach out to me? DM me at 👇
+For any questions or collaboration opportunities, feel free to reach out:
 
-Email: mahmudul15-13791@diu.edu.bd
+Email: charan.yalla@gmail.com
+
+---
+
+Built with ❤️ by Charan Yalla
