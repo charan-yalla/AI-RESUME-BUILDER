@@ -63,7 +63,7 @@ Make sure you have the following installed on your machine:
 ### Cloning the Repository
 
 ```bash
-git clone https://github.com/charan-yalla/AI-Resume-Builder.git
+git clone https://github.com/charan-yalla/AI-RESUME-BUILDER.git
 cd AI-Resume-Builder
 ```
 
